@@ -25,9 +25,9 @@ const RESOURCES = {"assets/asset/mosab.jpg": "c8c2e8f9060241de71fd0285cebb02ce",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "47441dafb35fe505260ab0f1dc1b6378",
-"/": "47441dafb35fe505260ab0f1dc1b6378",
-"main.dart.js": "1f75810c3ba6c1cf4ae7e23b888cef1c",
+"index.html": "06c7f8bbf349d20ba951bbd0d2a92164",
+"/": "06c7f8bbf349d20ba951bbd0d2a92164",
+"main.dart.js": "444eb957945a401bfb9f216cddb5f1e1",
 "manifest.json": "3f5cc1422384871cb04bfcbe05618047",
 "version.json": "753a77ab84c26f016b75729c469df551"};
 // The application shell files that are downloaded before a service worker can
